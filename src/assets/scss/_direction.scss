@@ -1,0 +1,23 @@
+
+
+/* Direction */
+
+*, 
+*::after,
+*::before {
+	box-sizing: border-box;
+}
+
+
+body {
+	font-style: normal;
+	font-family: 'Gilroy', sans-serif;
+}
+
+body.block {
+	overflow: hidden;
+}
+ol,ul {
+	padding: 0;
+	margin: 0;
+}

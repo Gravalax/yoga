@@ -1,0 +1,18 @@
+.promo {
+	&__title {
+		margin-top: 165px;
+
+		font-family: 'Phenomena';
+		font-style: normal;
+		font-weight: 400;
+		font-size: 150px;
+		line-height: 1.8;
+		color: #182949;
+		text-align: center;
+		text-transform: uppercase;
+	}
+
+	&__subtitle {
+		margin-top: 25px;
+	}
+}
